@@ -1,2 +1,1 @@
-# polar_human_gps
-https://github.com/SiteXiang/polar_human_gps/deployments/github-pages
+page : https://sitexiang.github.io/polar_human_gps/
